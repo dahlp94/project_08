@@ -1,0 +1,4 @@
+name: someName
+dependencies:
+  - foo1
+  - foo2
